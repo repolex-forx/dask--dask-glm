@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dask/dask-glm/commit/8dee45ab865d2df8dd004693f38e2491c1eb88e1",
       "git:hexsha": "8dee45ab865d2df8dd004693f38e2491c1eb88e1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.0"
     },
     {
